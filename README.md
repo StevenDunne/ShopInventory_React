@@ -3,7 +3,7 @@ This app was built as a redevelopment and expansion of the previous shop invento
 
 I rebuilt the app into a react app and implemented redux for future development and growth
 
-#Installation
+# Installation
 Clone the repository
 
 in the terminal enter:
